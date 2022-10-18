@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IvanSvyshch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ivan Svyshch
+- 👀 I’m interested in knowledge
+- 🌱 I’m currently learning Java
+- ✨ I want to cooperate with everyone who is interested in programming :-) 
+- 📫 How to reach me ivansvyshch@gmail.com
 
 <!---
 IvanSvyshch/IvanSvyshch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
