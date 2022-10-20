@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ivan Svyshch
-- 👀 I’m interested in knowledge
 - 🌱 I’m currently learning Java
-- ✨ I want to cooperate with everyone who is interested in programming :-) 
 - 📫 How to reach me ivansvyshch@gmail.com
 
 <!---
