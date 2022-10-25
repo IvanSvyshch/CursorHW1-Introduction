@@ -1,7 +1,6 @@
 package com.javacursor.lecture1;
 
 public class HomeWork1 {
-
     public static void main(String[] args) {
 
         byte a = 5;
@@ -16,7 +15,6 @@ public class HomeWork1 {
         long minus = e - b;
         double multiplication = d * f;
         long division = c / e;
-
         double sumValue = c + a - b * e / f; //for examples sum of all arithmetic operations
 
         System.out.println("plus " + plus);
@@ -25,7 +23,5 @@ public class HomeWork1 {
         System.out.println("division " + division);
         System.out.println("sumValue " + sumValue);
         System.out.println(myChar);
-
-
     }
 }
